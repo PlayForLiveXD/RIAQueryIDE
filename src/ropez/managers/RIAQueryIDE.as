@@ -1,6 +1,5 @@
-package
+package ropez.managers
 {
-
 
     final public class RIAQueryIDE extends Object
     {
